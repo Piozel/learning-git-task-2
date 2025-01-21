@@ -36,3 +36,4 @@ print(f"W sumie kupuję {x} produktów")
 print("pierwszy tekst")
 
 print("dodatkowy tekst piosenki tralalalala")
+print("To kolejne zadanie na GITHUB z KOdilla")
