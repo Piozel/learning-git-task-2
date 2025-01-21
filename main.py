@@ -35,4 +35,4 @@ print(f"W sumie kupuję {x} produktów")
 
 print("pierwszy tekst")
 
-
+print("dodatkowy tekst piosenki tralalalala")
