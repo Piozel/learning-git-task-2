@@ -37,3 +37,5 @@ print("pierwszy tekst")
 
 print("dodatkowy tekst piosenki tralalalala")
 print("To kolejne zadanie na GITHUB z KOdilla")
+
+print("Dzięki za wyrozumiałość przy sprawdzaniu zadań")
